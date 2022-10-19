@@ -1,3 +1,22 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "it's my first stream",
+      "description": "hello there",
+      "userId": "108550232801381552848",
+      "id": 1
+    },
+    {
+      "title": "Check new form navigation",
+      "description": "JUST CHECK THIS",
+      "userId": "108550232801381552848",
+      "id": 2
+    },
+    {
+      "title": "Component Reuse!",
+      "description": "Watch me refactor some components.",
+      "userId": "108550232801381552848",
+      "id": 3
+    }
+  ]
 }
